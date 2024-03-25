@@ -1,0 +1,9 @@
+# LEDs
+set_io -nowarn LED[0]       26
+set_io -nowarn LED[1]       27
+set_io -nowarn LED[2]      25
+set_io -nowarn LED[3]      23
+
+# Buttons
+set_io -nowarn BTN[0]       20
+set_io -nowarn BTN[1]       19
